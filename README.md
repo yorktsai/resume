@@ -1,4 +1,6 @@
-resume
+Resume
 ======
 
-Resume
+```
+pdflatex resume.tex
+```
